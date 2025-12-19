@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+langgraph
+requests
+beautifulsoup4
+python-dotenv
+pdfplumber
+exa-py
+pillow
+pdf2image
+pytesseract
+pymupdf
